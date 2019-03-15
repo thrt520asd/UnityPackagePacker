@@ -1,1 +1,6 @@
 # UnityPackagePacker
+一个基于Unity的打包系统的多平台多渠道打包组件
+规划  
+PackagBuilder对应一个平台的一个渠道
+PluginImporterGroup管理渠道对应插件
+PluginImporter对应一个插件
