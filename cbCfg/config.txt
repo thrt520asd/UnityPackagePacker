@@ -1,0 +1,8 @@
+--------------applicationIdentifier------------
+com.cb.demo
+--------------iosApplicationIdentifier------------
+_
+com.cb.demoios
+--------------productName------------
+渠道打包Demo
+---------------------------------------------------

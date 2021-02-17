@@ -1,0 +1,2 @@
+UserAgreementUrl https://www.ariel.com.tw/giant-user-agreement/
+PrivacyPolicyUrl https://www.ariel.com.tw/ariel-privacy-policy/

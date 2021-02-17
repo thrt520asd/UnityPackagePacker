@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c8f64b257274d9478719220503cdc18, type: 3}
+  m_Name: Demo
+  m_EditorClassIdentifier: 
+  applicationIdentifier: com.cb.demo
+  iosApplicationIdentifier: com.cb.demo
+  gameId: 1001
+  productName: "\u6E20\u9053\u6253\u5305Demo"
+  keyStorePath: 11
+  DefineSymbol: 
+  plugins: 
+  builder: Demo
+  CustomCfg: 

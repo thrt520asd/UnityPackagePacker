@@ -1,0 +1,8 @@
+.vs
+Library/
+UnityPackagePacker/obj
+Temp/
+obj/
+Logs/
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
